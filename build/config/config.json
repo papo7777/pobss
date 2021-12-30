@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9cc080f8bdbd4e1be7efe1e49310fc72eae19e5c",
+  "SCAN_LINK": "https://polygonscan.com/address/0x9cc080f8bdbd4e1be7efe1e49310fc72eae19e5c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SodxeCole",
+  "SYMBOL": "SDC",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sodxecole",
+  "SHOW_BACKGROUND": true
+}
