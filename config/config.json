@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x9cc080f8bdbd4e1be7efe1e49310fc72eae19e5c",
-  "SCAN_LINK": "https://polygonscan.com/address/0x9cc080f8bdbd4e1be7efe1e49310fc72eae19e5c",
+  "CONTRACT_ADDRESS": "0xeed0d3473381d1f19f09d206dd5673f0369f8e61",
+  "SCAN_LINK": "https://polygonscan.com/address/0xeed0d3473381d1f19f09d206dd5673f0369f8e61",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "SodxeCole",
-  "SYMBOL": "SDC",
-  "MAX_SUPPLY": 7777,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "NFT_NAME": "PandaOfBorderland",
+  "SYMBOL": "POB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/sodxecole",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pandaofborderland",
   "SHOW_BACKGROUND": true
 }
